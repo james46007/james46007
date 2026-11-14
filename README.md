@@ -91,15 +91,10 @@
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### 📊 GitHub Activity & Contributions
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=james46007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=james46007&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=james46007&theme=tokyonight&hide_border=true" alt="Contribution Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=james46007&theme=tokyonight&hide_border=true" alt="GitHub Contributions & Streak" />
 </div>
 
 ---
