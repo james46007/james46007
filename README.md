@@ -7,7 +7,7 @@
   <p><b>Passionate about building scalable web applications, responsive interfaces, and modern design systems.</b></p>
 
   <p>
-    <a href="https://www.linkedin.com/in/jimmy-sa%C3%BAl-yar-carvajal-9713711b6/" target="_blank">
+    <a href="https://www.linkedin.com/in/jimmy-yar/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Jimmy_Yar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:jimmy1817@hotmail.com">
@@ -104,7 +104,7 @@
   <a href="mailto:jimmy1817@hotmail.com">
     <img src="https://img.shields.io/badge/Let's_Connect-jimmy1817@hotmail.com-0052CC?style=for-the-badge" alt="Let's Connect" />
   </a>
-  <a href="https://www.linkedin.com/in/jimmy-sa%C3%BAl-yar-carvajal-9713711b6/" target="_blank">
+  <a href="https://www.linkedin.com/in/jimmy-yar/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Message_Me-0A66C2?style=for-the-badge" alt="LinkedIn Message" />
   </a>
 </div>
