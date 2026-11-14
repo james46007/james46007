@@ -79,6 +79,16 @@
 | 🤖 **[Pita Chatbot & Automation](https://github.com/james46007/pita-chatbot-n8n)** | Automated reservation and workflow service using containerized orchestration. | `Docker` `n8n` `PostgreSQL` | [Repository](https://github.com/james46007/pita-chatbot-n8n) |
 | 📱 **[Digimon Mobile App](https://github.com/james46007/digimon)** | Cross-platform mobile application for Android featuring responsive UI, cloud persistence, and APK build pipelines. | `Angular 17` `Ionic 7` `Capacitor` `Firebase` | [Repository](https://github.com/james46007/digimon) |
 
+<details>
+  <summary><b>🔍 More Open-Source Projects</b></summary>
+  <br/>
+  <ul>
+    <li>🐍 <b><a href="https://github.com/james46007/ecommerce_rest">ecommerce_rest</a>:</b> Modular e-commerce RESTful API backend built with <b>Python & Django REST Framework</b>.</li>
+    <li>🔍 <b><a href="https://github.com/james46007/google-suggestion">google-suggestion</a>:</b> Search autocomplete engine with input debounce, TypeScript, and <b>Cypress</b> E2E testing (<a href="https://google-suggestion.onrender.com/" target="_blank">Live Demo</a>).</li>
+    <li>👥 <b><a href="https://github.com/james46007/microservices-users">microservices-users</a>:</b> User authentication and account microservice communicating over <b>RabbitMQ</b> message queues with NestJS.</li>
+  </ul>
+</details>
+
 ---
 
 ### 📊 GitHub Activity & Metrics
