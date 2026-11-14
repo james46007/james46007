@@ -13,7 +13,7 @@
     <a href="mailto:jimmy1817@hotmail.com">
       <img src="https://img.shields.io/badge/Email-Direct_Contact-181717?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
     </a>
-    <img src="https://img.shields.io/badge/Role-Software_Engineer_@_Airpals-0052CC?style=for-the-badge" alt="Current Role" />
+    <img src="https://img.shields.io/badge/Focus-B2B_Logistics_Platforms-0052CC?style=for-the-badge" alt="Current Focus" />
     <img src="https://img.shields.io/badge/Location-Remote_(UTC--5)-222222?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
   </p>
 
@@ -23,7 +23,7 @@
 
 ### 👨‍💻 Professional Summary
 
-- 🔭 **Current Role:** Software Engineer at **Airpals**, contributing to modern web platforms in the B2B logistics sector.
+- 🔭 **Current Focus:** Software Engineer contributing to high-performance web applications and enterprise B2B logistics systems.
 - 💡 **Core Expertise:** Building robust, accessible, and high-performance applications with **TypeScript, React, and Next.js**.
 - 🎨 **Design & UI:** Developing reusable component systems with **Tailwind CSS and Storybook**, ensuring seamless design-to-code fidelity.
 - ⚙️ **Full-Stack Foundations:** Experience with APIs (REST & GraphQL), distributed services (NestJS, RabbitMQ), and workflow automation.
@@ -61,6 +61,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C%23_/_._NET-239120?style=flat-square&logo=csharp&logoColor=white" alt="C# / .NET" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white" alt="Ionic" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Cypress-69D3A7?style=flat-square&logo=cypress&logoColor=black" alt="Cypress" />
@@ -74,9 +75,9 @@
 | Project | Description | Stack | Link |
 | :--- | :--- | :--- | :---: |
 | ⚡ **[Pita Booking App](https://github.com/james46007/pita)** | Full-stack application with authentication, database integration, and modern UI. | `Next.js` `React` `Prisma` `Tailwind` | [Repository](https://github.com/james46007/pita) |
-| 🔌 **[API Gateway Service](https://github.com/james46007/api-gateway)** | Distributed service routing and messaging with Swagger documentation. | `NestJS` `RabbitMQ` `TypeScript` | [Repository](https://github.com/james46007/api-gateway) |
+| 🔌 **[API Gateway Service](https://github.com/james46007/api-gateway)** | Distributed service routing and asynchronous messaging with OpenAPI specs. | `NestJS` `RabbitMQ` `TypeScript` | [Repository](https://github.com/james46007/api-gateway) |
 | 🤖 **[Pita Chatbot & Automation](https://github.com/james46007/pita-chatbot-n8n)** | Automated reservation and workflow service using containerized orchestration. | `Docker` `n8n` `PostgreSQL` | [Repository](https://github.com/james46007/pita-chatbot-n8n) |
-| 🎨 **[UI Design System](https://github.com/james46007/design-system-airpals)** | Modular component library and design tokens for web applications. | `React` `Storybook` `Turborepo` | [Repository](https://github.com/james46007/design-system-airpals) |
+| 📱 **[Digimon Mobile App](https://github.com/james46007/digimon)** | Cross-platform mobile application for Android featuring responsive UI, cloud persistence, and APK build pipelines. | `Angular 17` `Ionic 7` `Capacitor` `Firebase` | [Repository](https://github.com/james46007/digimon) |
 
 ---
 
